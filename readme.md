@@ -15,7 +15,7 @@ Ready to set up and run the FizzBuzz API on your local machine? Just follow thes
 
 1. **Clone the Repository**
 ```bash
-git clone [repository-url]
+git clone https://github.com/adeelMajeed039/fizzbuzz_project
 cd fizzbuzz_project
 ```
 
@@ -49,4 +49,6 @@ The API endpoints are as follows:
 
 ## 🧪 Testing
 To run the automated test suite, execute the following command:
+```bash
 python manage.py test fizzbuzz_app
+```
